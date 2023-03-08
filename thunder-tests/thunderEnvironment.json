@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "8a7deed3-445d-465d-8651-f06b50e340d8",
+    "name": "iotdb",
+    "default": true,
+    "sortNum": 20000,
+    "created": "2022-01-25T12:20:52.283Z",
+    "modified": "2022-01-26T03:17:29.242Z",
+    "data": [
+      {
+        "name": "iotdb-host",
+        "value": "10.10.10.13"
+      },
+      {
+        "name": "iotdb-port",
+        "value": "18080"
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "_id": "58ee9c6d-5bee-45ca-979c-6f01c0ede57c",
+    "colId": "ce627166-4978-47bc-a174-5a06cb5ad070",
+    "created": "2023-03-08T03:03:26.736Z",
+    "modified": "2023-03-08T03:03:26.736Z",
+    "response": {
+      "responseText": "",
+      "filePath": "",
+      "type": "text",
+      "headers": [],
+      "cookies": [],
+      "testResults": [],
+      "url": "http://localhost:9200/_cat/nodes?v",
+      "status": 0,
+      "statusText": "",
+      "contentType": "",
+      "contentLength": "",
+      "responseTimeText": "0 ms",
+      "responseTime": 0,
+      "responseSize": 0,
+      "errorMessage": "Connection was refused by the server."
+    }
+  },
+  {
+    "_id": "65757c51-2958-410d-bf85-2ace17075a7f",
+    "colId": "ce627166-4978-47bc-a174-5a06cb5ad070",
+    "created": "2023-03-08T03:03:30.185Z",
+    "modified": "2023-03-08T03:03:30.185Z",
+    "response": {
+      "responseText": "",
+      "filePath": "",
+      "type": "text",
+      "headers": [],
+      "cookies": [],
+      "testResults": [],
+      "url": "http://localhost:9200/customer?pretty",
+      "status": 0,
+      "statusText": "",
+      "contentType": "",
+      "contentLength": "",
+      "responseTimeText": "0 ms",
+      "responseTime": 0,
+      "responseSize": 0,
+      "errorMessage": "Connection was refused by the server."
+    }
+  }
+]

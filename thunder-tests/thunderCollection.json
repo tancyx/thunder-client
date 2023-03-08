@@ -1,0 +1,101 @@
+[
+  {
+    "_id": "history",
+    "colName": "history",
+    "created": "2021-05-10T02:17:18.826Z",
+    "folders": []
+  },
+  {
+    "_id": "d29d1138-887d-423c-a674-442d61136675",
+    "colName": "iotdb",
+    "created": "2022-01-21T06:17:08.840Z",
+    "sortNum": 10000,
+    "folders": [],
+    "settings": {
+      "headers": [],
+      "auth": {
+        "type": "basic",
+        "basic": {
+          "username": "root",
+          "password": "root"
+        }
+      },
+      "tests": [],
+      "options": {
+        "baseUrl": "http://10.10.10.13:18080"
+      },
+      "envId": "8a7deed3-445d-465d-8651-f06b50e340d8"
+    }
+  },
+  {
+    "_id": "22dcc6d4-5376-4dd2-98dc-ab578b4219cb",
+    "colName": "dzj-mqtt",
+    "created": "2022-03-07T07:53:55.359Z",
+    "sortNum": 20000,
+    "folders": []
+  },
+  {
+    "_id": "e990094d-7991-4b9c-a79e-78d3b34d0eca",
+    "colName": "free-api",
+    "created": "2022-05-21T11:38:46.483Z",
+    "sortNum": 30000,
+    "folders": []
+  },
+  {
+    "_id": "9059a089-86bf-49ee-8fce-963d6a0ed50f",
+    "colName": "tmp",
+    "created": "2022-06-01T15:58:30.054Z",
+    "sortNum": 40000,
+    "folders": []
+  },
+  {
+    "_id": "3a2131a9-d718-4ed1-9350-e655edcb1068",
+    "colName": "twmap",
+    "created": "2022-11-26T05:08:20.567Z",
+    "sortNum": 50000,
+    "folders": []
+  },
+  {
+    "_id": "ce627166-4978-47bc-a174-5a06cb5ad070",
+    "colName": "es",
+    "created": "2023-02-25T06:47:56.464Z",
+    "sortNum": 60000,
+    "folders": [
+      {
+        "_id": "0fe17eaf-81e4-4526-9085-78d501dfe06e",
+        "name": "bulk",
+        "containerId": "",
+        "created": "2023-02-26T05:36:42.538Z",
+        "sortNum": 10000
+      },
+      {
+        "_id": "f0bbc4c8-1f00-48b2-809c-622eb9230e07",
+        "name": "query",
+        "containerId": "",
+        "created": "2023-02-26T07:09:49.541Z",
+        "sortNum": 20000
+      },
+      {
+        "_id": "0ac13774-6d26-4a0b-9623-1510225282db",
+        "name": "aggre",
+        "containerId": "",
+        "created": "2023-02-26T08:57:04.563Z",
+        "sortNum": 40000
+      },
+      {
+        "_id": "cc9b4928-09c9-4d40-a1ef-5de36fc7f6b9",
+        "name": "doc",
+        "containerId": "",
+        "created": "2023-03-08T06:42:03.290Z",
+        "sortNum": 50000
+      }
+    ],
+    "settings": {
+      "headers": [],
+      "tests": [],
+      "options": {
+        "baseUrl": "http://localhost:9200"
+      }
+    }
+  }
+]
